@@ -39,5 +39,5 @@ Professional Activities
 Awards
 ======
 
-- **Jiangsu Province Outstanding Graduate** 2021
-- **Jiangsu Province Outstanding Master Thesis Award** 2021
+- **Jiangsu Province Outstanding Graduate**, 2021
+- **Jiangsu Province Outstanding Master Thesis Award**, 2021
