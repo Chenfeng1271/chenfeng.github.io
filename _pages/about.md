@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋, I am a PhD student at the University of Adelaide, working on **efficient multimodal large language models (MLLMs)** and **efficient image generation**. I closely collaborate with
+Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide. I closely collaborate with
 [Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and
 [Prof. Qi Wu](https://scholar.google.com/citations?user=aKXe1FEAAAAJ&hl=en).
 
