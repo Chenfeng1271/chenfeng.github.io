@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Feng Chen"
-  pronouns         : "he/h"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The University of Adelaide"
   uri              : # URL
   email            : "none@example.org" 
 
