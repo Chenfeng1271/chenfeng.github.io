@@ -22,22 +22,22 @@ Currently, my research focuses on **embodied learning**, with an emphasis on **e
 
 
 Work Experience
-======
+------
 - **Research Intern**, TikTok, Sydney (Oct 2024 – Apr 2025)
 - **Research Intern**, Ant Group, Hangzhou (Sep 2022 – Apr 2024)
 
 
 Selected Publications
-======
+------
 
 
 Professional Activities
-======
+------
 - **Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCV
 
 
 Awards
-======
+------
 
 - **Jiangsu Province Outstanding Graduate**, 2021
 - **Jiangsu Province Outstanding Master Thesis Award**, 2021
