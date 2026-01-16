@@ -34,3 +34,10 @@ Selected Publications
 Professional Activities
 ======
 - **Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCV
+
+
+Awards
+======
+
+- **Jiangsu Province Outstanding Graduate** 2021
+- **Jiangsu Province Outstanding Master Thesis Award** 2021
