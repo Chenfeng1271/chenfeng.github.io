@@ -74,6 +74,30 @@ Selected Publications
   </div>
 </div>
 
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/MTI.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention</strong><br>
+    Zhen Yang, Mingyang Zhang, <strong>Feng Chen</strong>, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen<br>
+    <em>arXiv preprint, 2025</em><br>
+    [<a href="https://arxiv.org/abs/2510.13940">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/ACT.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>ACT as Human: Multimodal Large Language Model Data Annotation with Critical Thinking</strong><br>
+    Lequan Lin, Dai Shi, Andi Han, <strong>Feng Chen</strong>, Qiuzheng Chen, Jiawen Li, Zhaoyang Li, Jiyuan Li, Zhenbang Sun, Junbin Gao<br>
+    <em>NeurIPS, 2025</em><br>
+    [<a href="https://arxiv.org/abs/2511.09833">Paper</a>]
+  </div>
+</div>
+
 **Efficient and Controllable World Model**
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
@@ -133,6 +157,18 @@ Selected Publications
     Zixuan Wang, Duo Peng, <strong>Feng Chen</strong>, Yuwei Yang, Yinjie Lei<br>
     <em>CVPR, 2025</em><br>
     [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Training-free_Dense-Aligned_Diffusion_Guidance_for_Modular_Conditional_Image_Synthesis_CVPR_2025_paper.pdf">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/motion.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Training-free Motion Factorization for Compositional Video Generation</strong><br>
+    Zixuan Wang, Ziqin Zhou, <strong>Feng Chen</strong>, Duo Peng, Yixin Hu, Changsheng Li, Yinjie Lei<br>
+    <em>CVPR, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2603.09104">Paper</a>]
   </div>
 </div>
 
