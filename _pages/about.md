@@ -36,6 +36,77 @@ Work Experience
 Selected Publications
 ------
 
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px; background:#f0f0f0; min-height:100px; display:flex; align-items:center; justify-content:center; border-radius:4px;">
+    <span style="color:#aaa; font-size:12px;">Image coming soon</span>
+  </div>
+  <div>
+    <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
+    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/sparsity forcing.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Sparsity Forcing: Reinforcing Token Sparsity of MLLMs</strong><br>
+    <strong>Feng Chen</strong>, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang, Qi Wu<br>
+    <em>ICLR, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2504.18579">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px; background:#f0f0f0; min-height:100px; display:flex; align-items:center; justify-content:center; border-radius:4px;">
+    <span style="color:#aaa; font-size:12px;">Image coming soon</span>
+  </div>
+  <div>
+    <strong>OmniSparse: Training-Aware Fine-Grained Sparse Attention for Long-Video MLLMs</strong><br>
+    <strong>Feng Chen</strong>, Yefei He, Shaoxuan He, Yuanyu He, Jing Liu, Lequan Lin, Akide Liu, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu<br>
+    <em>AAAI, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2511.12201">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/NAR.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Neighboring Autoregressive Modeling for Efficient Visual Generation</strong><br>
+    Yefei He<sup>*</sup>, Yuanyu He<sup>*</sup>, Shaoxuan He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Hong Zhou, Kaipeng Zhang, Bohan Zhuang &nbsp;(<sup>*</sup>Equal contribution)<br>
+    <em>ICCV, 2025</em><br>
+    [<a href="https://arxiv.org/abs/2503.10696">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/ZIPAR.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality</strong><br>
+    Yefei He, <strong>Feng Chen</strong>, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
+    <em>ICML, 2025</em><br>
+    [<a href="https://arxiv.org/abs/2412.04062">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/zipvl.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification</strong><br>
+    Yefei He, <strong>Feng Chen</strong>, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
+    <em>ICCV, 2025</em><br>
+    [<a href="https://arxiv.org/abs/2410.08584">Paper</a>]
+  </div>
+</div>
 
 Professional Activities
 ------
