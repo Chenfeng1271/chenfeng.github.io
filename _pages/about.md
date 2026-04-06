@@ -40,6 +40,17 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/beyond accuracy.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
+    <strong>Feng Chen</strong>, Chenhui Gou, Yefei He, Yang Yang, Bohan Zhuang, Qi Wu<br>
+    <em>CVPR Findings, 2026</em><br>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
     <img src="/images/paper/sparsity forcing.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
@@ -51,8 +62,8 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px; background:#f0f0f0; min-height:100px; display:flex; align-items:center; justify-content:center; border-radius:4px;">
-    <span style="color:#aaa; font-size:12px;">Image coming soon</span>
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/omnisparse.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>OmniSparse: Training-Aware Fine-Grained Sparse Attention for Long-Video MLLMs</strong><br>
