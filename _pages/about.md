@@ -50,6 +50,18 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/chain_of_event.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</strong><br>
+    Zixuan Wang<sup>*</sup>, Yixin Hu<sup>*</sup>, Haolan Wang, <strong>Feng Chen</strong><sup>*</sup>, Yan Liu, Wen Li, Yinjie Lei &nbsp;(<sup>*</sup>Equal contribution)<br>
+    <em>CVPR, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2603.09094">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
     <img src="/images/paper/sparsity forcing.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
