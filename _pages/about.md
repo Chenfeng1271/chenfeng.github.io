@@ -40,7 +40,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/beyond accuracy.png" style="width:100%; border-radius:4px;">
+    <img src="/images/paper/beyond%20accuracy.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
@@ -51,7 +51,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/sparsity forcing.png" style="width:100%; border-radius:4px;">
+    <img src="/images/paper/sparsity%20forcing.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Sparsity Forcing: Reinforcing Token Sparsity of MLLMs</strong><br>
