@@ -17,7 +17,11 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 - **Efficient autoregressive image generation**, including [ZipAR](https://arxiv.org/abs/2412.04062) and [NAR](https://arxiv.org/abs/2503.10696).
 
-Currently, my research focuses on **embodied learning**, with an emphasis on **efficient VLA** and **physical-aware world models**, including [LiveWorld](https://arxiv.org/abs/2603.07145) which enables persistent out-of-sight dynamics in generative video world models.
+Currently, my research focuses on **embodied learning**, with two main directions:
+
+- **Efficient VLA**: improving *policy efficiency* by enabling VLA models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference while maintaining robust task performance.
+
+- **Physical-aware World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws. Related work: [LiveWorld](https://arxiv.org/abs/2603.07145).
 
 
 
