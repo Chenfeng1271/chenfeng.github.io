@@ -40,7 +40,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/beyond%20accuracy.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/beyond%20accuracy.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
@@ -51,7 +51,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/sparsity%20forcing.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/sparsity%20forcing.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Sparsity Forcing: Reinforcing Token Sparsity of MLLMs</strong><br>
@@ -63,7 +63,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/omnisparse.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/omnisparse.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>OmniSparse: Training-Aware Fine-Grained Sparse Attention for Long-Video MLLMs</strong><br>
@@ -75,7 +75,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/zipvl.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/zipvl.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification</strong><br>
@@ -87,7 +87,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/MTI.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/MTI.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention</strong><br>
@@ -99,7 +99,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/ACT.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/ACT.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>ACT as Human: Multimodal Large Language Model Data Annotation with Critical Thinking</strong><br>
@@ -113,7 +113,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/liveworld.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/liveworld.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
@@ -125,7 +125,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/chain_of_event.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/chain_of_event.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</strong><br>
@@ -137,7 +137,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/NAR.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/NAR.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Neighboring Autoregressive Modeling for Efficient Visual Generation</strong><br>
@@ -149,7 +149,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/ZIPAR.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/ZIPAR.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality</strong><br>
@@ -161,7 +161,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/modular.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/modular.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis</strong><br>
@@ -173,7 +173,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/motion.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/motion.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Training-free Motion Factorization for Compositional Video Generation</strong><br>
@@ -187,7 +187,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/UEN.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/UEN.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Uncertainty-guided Learning for Improving Image Manipulation Detection</strong><br>
@@ -201,7 +201,7 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/BGA-MNER.png" style="width:100%; border-radius:4px;">
+    <img src="{{ site.baseurl }}/images/paper/BGA-MNER.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
     <strong>Learning Implicit Entity-object Relations by Bidirectional Generative Alignment for Multimodal NER</strong><br>
